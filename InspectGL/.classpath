@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="inspectgl/StringArrayInfo.java|inspectgl/win32/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/Apache Commons/commons-cli-1.3.1/commons-cli-1.3.1.jar" sourcepath="E:/IDE/Libraries/Apache Commons/commons-cli-1.3.1-src/src">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/IDE/Libraries/Apache%20Commons/commons-cli-1.3.1/commons-cli-1.3.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl.jar" sourcepath="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-javadoc.jar!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/temp_natives_win32"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-opengl.jar" sourcepath="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-opengl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-jawt-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-glfw.jar" sourcepath="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-glfw-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-glfw-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/GSON/gson-2.6.2.jar" sourcepath="E:/IDE/Libraries/GSON/gson-2.6.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/IDE/Libraries/GSON/gson-2.6.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/Apache Commons/commons-lang3-3.5/commons-lang3-3.5.jar" sourcepath="E:/IDE/Libraries/Apache Commons/commons-lang3-3.5/commons-lang3-3.5-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/IDE/Libraries/Apache%20Commons/commons-lang3-3.5/commons-lang3-3.5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-glfw-natives-linux.jar"/>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="E:/IDE/Libraries/LWJGL/lwjgl-release-3.1.0-custom/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
