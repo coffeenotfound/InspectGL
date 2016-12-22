@@ -21,6 +21,7 @@ Right now it only collects some fairly basic information, like
 * most OpenGL `getString` info (`GL_VENDOR`, `GL_RENDERER`, etc)
 * OpenGL extensions via `GL_EXTENSIONS`
 * basic OS info provided by Java's system properties (`os.*`)
+* UUID and timestamp
 
 ### What's next?
 I don't exactly know yet. What I want to add in the forseeable future is
